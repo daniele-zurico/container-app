@@ -1,0 +1,7 @@
+:host /deep/ #me {
+    color: orange !important;
+}
+
+#me {
+    color: orange !important;
+}
